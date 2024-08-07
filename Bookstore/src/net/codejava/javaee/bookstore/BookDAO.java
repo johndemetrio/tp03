@@ -1,3 +1,8 @@
+/*
+    Kayky Santos Pessoa - CB 3021157 
+    John Wesley Demetrio Costa - CB3021718
+*/
+
 package net.codejava.javaee.bookstore;
 
 import java.sql.Connection;
